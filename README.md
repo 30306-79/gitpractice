@@ -1,2 +1,1 @@
-﻿# GitPractice Project
-修正だぜbyAさん
+"Bさんの変更: README.md を更新" 
